@@ -1,6 +1,6 @@
 <h1 align="center">Welcome! 👋, I'm Syeda Faryal Fatima</h1>
 <h3 align="center">AI Engineering student turning real-world problems into code-driven solutions.</h3>
-![Image](https://github.com/user-attachments/assets/e945a3e4-6794-4753-bf60-5a27f29147c3)
+ <img align = "right" width = "250" height = "320" alt = "gif" src="https://github.com/user-attachments/assets/67d37427-729e-46dc-bf46-fe5e3e7ae77a"/>
   
 - 🌱 I’m currently learning **Computer Vision, Deep Learning, and Real-time AI applications**
 
